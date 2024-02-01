@@ -14,8 +14,3 @@ class MainActivity : AppCompatActivity() {
 // Coding Coding Coding
 // Coding Coding Coding
 // Coding Coding Coding
-
-
-// Coding Coding Coding 2
-// Coding Coding Coding  2
-// Coding Coding Coding 2
